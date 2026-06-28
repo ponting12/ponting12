@@ -25,9 +25,12 @@ Email Me 👉 ✉️ **adityayadav12114@gmail.com* For Collaboration/Project or 
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ponting12&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ponting12&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ponting12&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+https://github-readme-stats.vercel.app/api?username=ponting12&show_icons=true&theme=dark   https://streak-stats.demolab.com?user=ponting12&theme=dark
+
+   https://github-readme-stats.vercel.app/api/top-langs/?username=ponting12&layout=compact&theme=dark
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ponting12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
