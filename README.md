@@ -12,7 +12,7 @@ Email Me 👉 ✉️ *adityayadav12114@gmail.com* For Collaboration/Project or A
 - 😄 **Pronouns:** Aditya Bhai
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aditya Yadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityayadav12114@gmail.com) 
+(https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aditya Yadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityayadav12114@gmail.com) 
 
 
 
