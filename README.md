@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Aditya Yadav
 **A passionate Web Developer**
 
-Email Me 👉 ✉️ **adityayadav12114@gmail.com* For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ *adityayadav12114@gmail.com* For Collaboration/Project or Anything Else.😊😊
 
 - 🔭 **I’m currently working on:** Interview-Prep Website
 - 🌱 **I’m currently learning:** MERN Stack
