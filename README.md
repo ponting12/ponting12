@@ -5,10 +5,10 @@ Email Me 👉 ✉️ *adityayadav12114@gmail.com* For Collaboration/Project or A
 
 - 🔭 **I’m currently working on:** Interview-Prep Website
 - 🌱 **I’m currently learning:** MERN Stack
-- 👯 **I’m looking to collaborate on:** .....
-- 🤔 **I’m looking for help with:** ......
+- 👯 **I’m looking to collaborate on: .....
+- 🤔 **I’m looking for help with: ......
 - 💬 **Ask me about:**  Tech Support
-- 📫 **How to reach me:** adityayadav12114@gmail.com
+- 📫 **How to reach me:* adityayadav12114@gmail.com
 - 😄 **Pronouns:** Aditya Bhai
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 ## 🌐 Socials:
