@@ -21,9 +21,9 @@ Email Me 👉 ✉️ *adityayadav12114@gmail.com* For Collaboration/Project or A
 
 <!-- Snake Game Repo View -->
 
-<div align="center">
+<!--<div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+</div>-->
 # 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ponting12\&show_icons=true\&theme=dark)
 
