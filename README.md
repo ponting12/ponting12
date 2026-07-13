@@ -9,7 +9,7 @@ Email Me 👉 ✉️ *adityayadav12114@gmail.com* For Collaboration/Project or A
 - 🤔 **I’m looking for help with: ......
 - 💬 **Ask me about:**  Tech Support
 - 📫 **How to reach me:* adityayadav12114@gmail.com
-- 😄 **Pronouns:** Aditya Bhai
+- 😄 **Pronouns:** ponting12
 - ⚡ **Fun fact:** I Love Tech 
 ## 🌐 Socials:
 (https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Aditya Yadav) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityayadav12114@gmail.com) 
